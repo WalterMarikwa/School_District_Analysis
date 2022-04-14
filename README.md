@@ -9,9 +9,9 @@ Python 3.7, Anaconda, Jupyter Notebook
 ## Results
 Considering the potential for academic dishonesty amongst the nighth grade students at Thomas High School, This analysis was conducted twice. The first evaluation used the full set of student data. For the second attempt of this analysis, The ninth grade students of Thomas High School had their scores excluded from the calculations. The Dataframe below is a summary of the Distinct after the ninth draders scored have been replaced with NaN.
 
-![deliverable1](comingSoon.png)
+![deliverable1](delivarable1.png)
 
-![deliverable2](comingSoon.png)
+![deliverable2](deliverable2.png)
 
 ## Summary
 Unforfunately, it is impossible to identify whether certain individuals are engaging in acdemic dishonestly or exclude them from dataset. As a result, the scores of all ninth-gradres from Thomas High School have been left out from the results. This is a suboptimal situation because a full set of data is ideal for creating the most accurate results.
